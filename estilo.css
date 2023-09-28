@@ -1,0 +1,60 @@
+body.index{
+    background-color:grey;
+}
+body.page{
+    background-color: aqua;
+}
+body.page2{
+    background-color: lightblue;
+}
+h1{
+    color: gold;
+    text-align: center;
+
+}
+h1.fute{
+    text-align: center;
+    color: #DAA520;
+}
+h3{
+    color: yellowgreen;
+    font-size: 35px;
+
+}
+h3.fut{
+    color:rgb(72, 8, 124);
+    font-size: 40px;
+}
+h3.time{
+    color:rgb(18, 18, 189);
+    font-size: 32px;
+}
+p{
+    color:darkred;
+}
+hr{
+    border-color: green;
+}
+img{
+    margin-left: 1%;
+    width: 200px;
+    height: 200px;
+}
+
+ a:link{
+    color: blue;
+    text-decoration: none;
+}
+ a:visited{
+    color:gold;
+    text-decoration: none;
+}
+ a:hover{
+    color:red;
+    text-decoration: underline;
+ }
+.insta{
+    background-image: url(insta.jpeg);
+    background-repeat: no-repeat;
+    height: 64px;
+}
